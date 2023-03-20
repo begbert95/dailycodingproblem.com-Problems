@@ -1,0 +1,219 @@
+{
+	"files": [
+		{
+			"path": "../../../Queries/Deadlock/ws_DEBUG_L2_Host_Import_Ordini_New.sql",
+			"bookmarks": [
+				{
+					"line": 44,
+					"column": 110,
+					"label": "DAT_ORDINI"
+				},
+				{
+					"line": 74,
+					"column": 68,
+					"label": "fn_CUSTOM_Ord_GetOrdiniFase"
+				},
+				{
+					"line": 82,
+					"column": 71,
+					"label": "fn_CUSTOM_Ord_GetOrdiniFase"
+				},
+				{
+					"line": 109,
+					"column": 52,
+					"label": "fn_CUSTOM_Ord_GetOrdiniFase"
+				},
+				{
+					"line": 207,
+					"column": 33,
+					"label": "ws_L2_Host_Import_Ordini_Delete"
+				},
+				{
+					"line": 225,
+					"column": 33,
+					"label": "fn_td"
+				},
+				{
+					"line": 231,
+					"column": 43,
+					"label": "fn_getNumFromWork"
+				},
+				{
+					"line": 393,
+					"column": 48,
+					"label": "ws_L2_Host_Import_Ordini_Checks"
+				},
+				{
+					"line": 440,
+					"column": 39,
+					"label": "ws_CUSTOM_L2_ConsumeHU"
+				},
+				{
+					"line": 505,
+					"column": 37,
+					"label": "ws_CUSTOM_TabChangesWakeUp"
+				},
+				{
+					"line": 555,
+					"column": 90,
+					"label": "fn_L2_CUSTOM_GetARTICOLOfromCONAID"
+				},
+				{
+					"line": 588,
+					"column": 23,
+					"label": "IMP_ORDINI_RIGHE"
+				},
+				{
+					"line": 589,
+					"column": 31,
+					"label": "DAT_ORDINI_RIGHE"
+				}
+			]
+		},
+		{
+			"path": "../../../Queries/Deadlock/ws_CUSTOM_L2_RqMat.sql",
+			"bookmarks": [
+				{
+					"line": 40,
+					"column": 53,
+					"label": "ws_CUSTOM_L2_RqMat_CheckArtBulkState"
+				},
+				{
+					"line": 53,
+					"column": 41,
+					"label": "ws_CUSTOM_L2_RqMat_Src"
+				}
+			]
+		},
+		{
+			"path": "../../../Queries/Deadlock/ws_CUSTOM_L2_RqMat_Src.sql",
+			"bookmarks": [
+				{
+					"line": 31,
+					"column": 29,
+					"label": "fn_getNumFromWork"
+				},
+				{
+					"line": 48,
+					"column": 53,
+					"label": "ws_CUSTOM_L2_RqMat_Src_PrepareTables"
+				},
+				{
+					"line": 67,
+					"column": 52,
+					"label": "ws_MopsEx_Systore_WorkMode2Zones"
+				},
+				{
+					"line": 75,
+					"column": 45,
+					"label": "ws_MopsEx_Systore_RQMAT_Fill"
+				},
+				{
+					"line": 80,
+					"column": 54,
+					"label": "ws_CUSTOM_L2_RqMat_Src_SetSystoreData"
+				},
+				{
+					"line": 94,
+					"column": 51,
+					"label": "ws_CUSTOM_L2_SkuAvail_PrepareTable"
+				},
+				{
+					"line": 97,
+					"column": 38,
+					"label": "ws_CUSTOM_L2_SkuAvail"
+				},
+				{
+					"line": 204,
+					"column": 15,
+					"label": "MAG_BAIE"
+				},
+				{
+					"line": 212,
+					"column": 27,
+					"label": "fn_td"
+				},
+				{
+					"line": 219,
+					"column": 47,
+					"label": "fn_CUSTOM_CharCount"
+				},
+				{
+					"line": 221,
+					"column": 46,
+					"label": "fn_CUSTOM_CharCount"
+				},
+				{
+					"line": 228,
+					"column": 15,
+					"label": "MAG_BAIE"
+				},
+				{
+					"line": 240,
+					"column": 27,
+					"label": "fn_td"
+				},
+				{
+					"line": 252,
+					"column": 46,
+					"label": "fn_CUSTOM_CharCount"
+				},
+				{
+					"line": 255,
+					"column": 44,
+					"label": "fn_CUSTOM_CharCount"
+				},
+				{
+					"line": 257,
+					"column": 46,
+					"label": "fn_CUSTOM_CharCount"
+				},
+				{
+					"line": 279,
+					"column": 27,
+					"label": "fn_td"
+				},
+				{
+					"line": 285,
+					"column": 24,
+					"label": "fn_td"
+				},
+				{
+					"line": 296,
+					"column": 57,
+					"label": "ws_CUSTOM_L2_Kickout_AisleFull"
+				},
+				{
+					"line": 311,
+					"column": 50,
+					"label": "ws_CUSTOM_L2_RqMat_Src_Existing"
+				},
+				{
+					"line": 326,
+					"column": 48,
+					"label": "ws_CUSTOM_L2_RqMat_Src_Bulk"
+				},
+				{
+					"line": 366,
+					"column": 15,
+					"label": "cursor"
+				},
+				{
+					"line": 372,
+					"column": 63,
+					"label": "ws_MopsEx_Systore_RQMAT_Fill_Affected_Orders"
+				},
+				{
+					"line": 398,
+					"column": 9,
+					"label": "Cursor"
+				},
+				{
+					"line": 404,
+					"column": 47,
+					"label": "ws_CUSTOM_L2_Ord_SetShortage"
+				}
+			]
+		}
+	]
+}
